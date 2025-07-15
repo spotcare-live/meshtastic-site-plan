@@ -4,21 +4,27 @@
 
 ## 節點列表 (已安裝)
 
+- 平鎮南勢 PZNS 節點
+  - [site planner 訊號模擬](./site-planner/PZNS/index.md)
+  - [節點狀態](https://meshtastic.liamcottle.net/?node_id=2956775444)
 - 楊梅瑞坪 YMRP 節點
-  - [訊號模擬](./site-planner/YMRP/index.md)
+  - [site planner 訊號模擬](./site-planner/YMRP/index.md)
   - [節點狀態](https://meshtastic.liamcottle.net/?node_id=3118478962)
 - 龍潭平遍山 LTPP 節點
-  - [訊號模擬](./site-planner/LTPP/index.md)
+  - [site planner 訊號模擬](./site-planner/LTPP/index.md)
   - [節點狀態](https://meshtastic.liamcottle.net/?node_id=3668276471)
-- 橫山大崎棟 HSDC 節點
-  - [訊號模擬](./site-planner/HSDC/index.md)
+- 橫山大崎棟 HSDC 節點 (2025/07/12 電池故障待修)
+  - [site planner 訊號模擬](./site-planner/HSDC/index.md)
   - [節點狀態](https://meshtastic.liamcottle.net/?node_id=290719560)
 
 ## 節點列表 (評估中)
 
-- [新埔犁頭山觀景台 XPLT 節點](./site-planner/XPLT/index.md)
-- [竹北文山步道觀景台 ZBWS 節點](./site-planner/ZBWS/index.md)
-- [龜山大棟山 GSDD 節點](./site-planner/GSDD/index.md)
+- 新埔犁頭山觀景台 XPLT 節點
+  - [site planner 訊號模擬](./site-planner/XPLT/index.md)
+- 竹北文山步道觀景台 ZBWS 節點
+  - [site planner 訊號模擬](./site-planner/ZBWS/index.md)
+- 龜山大棟山 GSDD 節點
+  - [site planner 訊號模擬](./site-planner/GSDD/index.md)
 
 ## 模擬設備
 

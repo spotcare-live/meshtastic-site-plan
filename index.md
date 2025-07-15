@@ -2,22 +2,17 @@
 
 這個目錄包含了所有 Meshtastic 站台的訊號模擬結果，使用 [Meshtastic Site Planner](https://site.meshtastic.org/) 進行模擬。
 
-## 站台列表
+## 站台列表 (已安裝)
 
-### [楊梅瑞坪 YMRP 站台模擬結果](./site-planner/YMRP/index.md)
-楊梅瑞坪站台的訊號模擬，包含：
-- 手持站台訊號模擬
-- 透天房屋屋頂4樓站台訊號模擬
+- [楊梅瑞坪 YMRP 站台模擬結果](./site-planner/YMRP/index.md)
+- [龍潭平遍山 LTPP 站台模擬結果](./site-planner/LTPP/index.md)
+- [橫山大崎棟 HSDC 站台模擬結果](./site-planner/HSDC/index.md)
 
-### [龍潭平遍山 LTPP 站台模擬結果](./site-planner/LTPP/index.md)
-龍潭平遍山站台的訊號模擬，包含：
-- 手持站台訊號模擬
-- 透天房屋屋頂4樓站台訊號模擬
+## 站台列表 (規劃中)
 
-### [橫山大崎棟 HSDC 站台模擬結果](./site-planner/HSDC/index.md)
-橫山大崎棟站台的訊號模擬，包含：
-- 手持站台訊號模擬
-- 透天房屋屋頂4樓站台訊號模擬
+- [新埔犁頭山觀景台 站台模擬結果](./site-planner/XPLT/index.md)
+- [文山步道觀景台 站台模擬結果](./site-planner/ZBWS/index.md)
+- [龜山大棟山 GSDD 站台模擬結果](./site-planner/GSDD/index.md)
 
 ## 模擬設備
 

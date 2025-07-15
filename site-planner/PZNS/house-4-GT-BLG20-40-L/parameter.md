@@ -3,9 +3,9 @@
 
 ## 模擬野放節點，使用 Giznot GT-BLG20-40-L 玻璃鋼天線
 
-- Site Name: GSDD
-- Latitude: 24.995792796515392
-- Longitude: 121.38410875919504
+- Site Name: PZNS
+- Latitude: 24.909556149641716
+- Longitude: 121.20535342475233
 - Power (W): 0.12598
 - Frequency (MHz): 923.875
 - Height AGL (m): 3

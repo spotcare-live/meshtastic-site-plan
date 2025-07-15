@@ -13,9 +13,9 @@
 - 龍潭平遍山 LTPP 節點
   - [site planner 訊號模擬](./site-planner/LTPP/index.md)
   - [節點狀態](https://meshtastic.liamcottle.net/?node_id=3668276471)
-- 橫山大崎棟 HSDC 節點 (2025/07/12 電池故障待修)
+- 橫山大崎棟 HSDC 節點
   - [site planner 訊號模擬](./site-planner/HSDC/index.md)
-  - [節點狀態](https://meshtastic.liamcottle.net/?node_id=290719560)
+  - [節點狀態](https://meshtastic.liamcottle.net/?node_id=290719560) (2025/07/10 電池故障待修)
 
 ## 節點列表 (評估中)
 

@@ -10,8 +10,8 @@
 
 ## 站台列表 (規劃中)
 
-- [新埔犁頭山觀景台 站台模擬結果](./site-planner/XPLT/index.md)
-- [文山步道觀景台 站台模擬結果](./site-planner/ZBWS/index.md)
+- [新埔犁頭山觀景台 XPLT 站台模擬結果](./site-planner/XPLT/index.md)
+- [竹北文山步道觀景台 ZBWS 站台模擬結果](./site-planner/ZBWS/index.md)
 - [龜山大棟山 GSDD 站台模擬結果](./site-planner/GSDD/index.md)
 
 ## 模擬設備

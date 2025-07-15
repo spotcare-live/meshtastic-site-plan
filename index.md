@@ -4,15 +4,21 @@
 
 ## 站台列表 (已安裝)
 
-- [楊梅瑞坪 YMRP 站台模擬結果](./site-planner/YMRP/index.md)
-- [龍潭平遍山 LTPP 站台模擬結果](./site-planner/LTPP/index.md)
-- [橫山大崎棟 HSDC 站台模擬結果](./site-planner/HSDC/index.md)
+- 楊梅瑞坪 YMRP 站台
+  - [訊號模擬](./site-planner/YMRP/index.md)
+  - [站台狀態](https://meshtastic.liamcottle.net/?node_id=3118478962)
+- 龍潭平遍山 LTPP 站台
+  - [訊號模擬](./site-planner/LTPP/index.md)
+  - [站台狀態](https://meshtastic.liamcottle.net/?node_id=3668276471)
+- 橫山大崎棟 HSDC 站台
+  - [訊號模擬](./site-planner/HSDC/index.md)
+  - [站台狀態](https://meshtastic.liamcottle.net/?node_id=290719560)
 
 ## 站台列表 (規劃中)
 
-- [新埔犁頭山觀景台 XPLT 站台模擬結果](./site-planner/XPLT/index.md)
-- [竹北文山步道觀景台 ZBWS 站台模擬結果](./site-planner/ZBWS/index.md)
-- [龜山大棟山 GSDD 站台模擬結果](./site-planner/GSDD/index.md)
+- [新埔犁頭山觀景台 XPLT 站台](./site-planner/XPLT/index.md)
+- [竹北文山步道觀景台 ZBWS 站台](./site-planner/ZBWS/index.md)
+- [龜山大棟山 GSDD 站台](./site-planner/GSDD/index.md)
 
 ## 模擬設備
 

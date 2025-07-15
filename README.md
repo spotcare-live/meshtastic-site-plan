@@ -14,7 +14,7 @@
   - [訊號模擬](./site-planner/HSDC/index.md)
   - [站台狀態](https://meshtastic.liamcottle.net/?node_id=290719560)
 
-## 站台列表 (規劃中)
+## 站台列表 (評估中)
 
 - [新埔犁頭山觀景台 XPLT 站台](./site-planner/XPLT/index.md)
 - [竹北文山步道觀景台 ZBWS 站台](./site-planner/ZBWS/index.md)

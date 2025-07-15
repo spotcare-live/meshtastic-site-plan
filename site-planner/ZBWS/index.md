@@ -1,16 +1,16 @@
-# ZBWS Meshtastic 站台訊號測試
+# 竹北文山步道觀景台 ZBWS Meshtastic 站台訊號測試
 
 - 測試軟體：[Meshtastic Site Planner](https://site.meshtastic.org/)
 
 ## 訊號模擬結果
 
-### 1. ZBWS 對手持站台訊號模擬
+### 1. 竹北文山步道觀景台 ZBWS 對手持站台訊號模擬
 
 - [參數](./handheld-TX915-JDK-20/parameter.md)
 
 ![手持站台的模擬圖](./handheld-TX915-JDK-20/image.png)
 
-### 2. ZBWS 對透天房屋屋頂4樓站台訊號模擬
+### 2. 竹北文山步道觀景台 ZBWS 對透天房屋屋頂4樓站台訊號模擬
 
 - [參數](./house-4-GT-BLG20-40-L/parameter.md)
 

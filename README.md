@@ -25,7 +25,7 @@
   - [site planner 訊號模擬](./site-planner/ZBWS/index.md)
 - 龜山大棟山 GSDD 節點
   - [site planner 訊號模擬](./site-planner/GSDD/index.md)
-- 香山浸水南街 XSWR 節點
+- 香山水資源公園 XSWR 節點
   - [site planner 訊號模擬](./site-planner/XSWR/index.md)
 
 ## 模擬設備
